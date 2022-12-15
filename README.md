@@ -14,7 +14,7 @@ My First Repository
 }
 ```
 
-~~Flat Earther Activist/Environmentalist/Bikerist~
+~~Flat Earther Activist/Environmentalist/Bikerist~~
 
 I love to watch gore movies specially ==Green Inferno 👽==.
 
